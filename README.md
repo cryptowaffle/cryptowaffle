@@ -1,6 +1,5 @@
-- sup guys, I’m @cryptowaffle
--  I’m interested in became Project Manager
--  I’m currently learning solidity
+- sup guys, I’m @jiizix716
+
 
 <!---
 cryptowaffle/cryptowaffle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
